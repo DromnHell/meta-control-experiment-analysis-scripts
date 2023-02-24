@@ -1,0 +1,11 @@
+Last 400 actions take into account
+
+MF:
+middle: [0, 4, 12, 0, 0, 0, 1, 10, 7, 8]
+down: [8, 14, 12, 10, 14, 19, 20, 12, 10, 12]
+favorit path: down, down, neither, down, down, down, down, down, down, down
+
+MB:
+middle: [15, 10, 3, 13, 18, 0, 18, 17, 6, 11]
+down: [3, 0, 13, 6, 0, 18, 0, 0, 28, 7]
+favorit path: middle, middle, down, middle, middle, down, middle, middle, down, middle
